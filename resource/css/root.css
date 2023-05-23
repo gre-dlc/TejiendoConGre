@@ -2,6 +2,8 @@
 
 :root {
   --ff-primary: 'Roboto Slab', serif;
+  --border-radius: .5rem;
+  --title-product: 'Fraunces';
 }
 
 * {
@@ -38,6 +40,7 @@ body {
 }
 
 footer {
+  margin-top: 5rem;
   display: flex;
   justify-content: center;
 }

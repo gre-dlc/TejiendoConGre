@@ -3,7 +3,7 @@
 :root {
   --clr-main: #ffe3e8;
   --clr-main-complementario: #b4f9ed;
-  --border-radius: 0.8rem;
+  --border-radius: 0.5rem;
   --font-family: 'Roboto Slab', serif;
 
   --clr-1: #FFB84C;
@@ -35,7 +35,7 @@
   display: grid;
   justify-content: center;
   align-content: center;
-  grid-template-columns: repeat(auto-fit, 270px) 280px;;
+  grid-template-columns: repeat(auto-fit, 270px) 280px;
   grid-template-rows: 400px;
   box-shadow: 2px 2px 20px 1px #dadada;
   border-radius: var(--border-radius);
